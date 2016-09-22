@@ -6,3 +6,5 @@
 	 └ package.json
 
 	electron .
+	
+	npm run-script build:win64
